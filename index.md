@@ -1,6 +1,4 @@
----
-title: Welcome to my blog
----
+
 
 # Welcome to my Sample Home Page
 
