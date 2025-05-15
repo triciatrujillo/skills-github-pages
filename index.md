@@ -27,3 +27,7 @@ This is where I'll list my past work experience
 ## Education
 
 This is where I'll provide details about my certification
+
+## Check out my blog
+
+Here's a link to the [blog](https://triciatrujillo.github.io/posts/)
