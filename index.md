@@ -30,4 +30,4 @@ This is where I'll provide details about my certification
 
 ## Check out my blog
 
-Here's a link to the [blog](https://triciatrujillo.github.io/posts/2025-05-15)
+Check out the latest: [latest blog post](<a href="posts/2025-05-15.html">)
