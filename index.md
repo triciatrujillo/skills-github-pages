@@ -1,4 +1,6 @@
-
+---
+title: home page
+---
 
 # Welcome to my Sample Home Page
 
