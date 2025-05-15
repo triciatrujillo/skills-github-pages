@@ -30,4 +30,4 @@ This is where I'll provide details about my certification
 
 ## Check out my blog
 
-Here's the latest: [blog post](<a href="_posts/2025-05-15.html">)
+Here's the latest: [blog post](<a href="_posts/2025-05-15.md">)
